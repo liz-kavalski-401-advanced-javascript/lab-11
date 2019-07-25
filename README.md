@@ -2,7 +2,7 @@
 ### Author:Liz Kavalski
 
 ### Links and Resources
-* [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-11/pull/1)
+* [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-11/pull/2)
 * [travis](http://xyz.com) Travis is not hooked up
 * [Heruko](https://mighty-retreat-23633.herokuapp.com/)-might not work
 
